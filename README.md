@@ -1,3 +1,3 @@
 # github-practice2
 Just learning the basics of GitHub and cyber security from Youtube 
-all basics 
+all basics like creating repo, pull request 
