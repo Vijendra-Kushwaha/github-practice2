@@ -5,4 +5,4 @@ i'm thinking about how can i built an app or any website and how to manage it ,l
 and what should i do when i want that everyone can access it.
 but it alse has two different types 
 first one from play Store 
-secondly for browsers , for different os like mac os, windows, linux etc....  
+secondly for browsers , for different os like mac os, windows, linux etc.. 
