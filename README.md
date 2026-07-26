@@ -7,4 +7,4 @@ but it alse has two different types
 first one from play Store 
 secondly for browsers ,
 for different os like mac os, windows, linux etc...
-i'm very confused about all these things 
+i'm very confused about all these things .
